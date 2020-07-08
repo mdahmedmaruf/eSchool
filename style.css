@@ -71,7 +71,7 @@ header {
 	width: 100%;
 }
 
-.fun-fact {
+.book-section {
 	margin: 50px auto;
 }
 
@@ -81,21 +81,14 @@ header {
 	margin-bottom: 20px;
 }
 
-.card-inner {
+.card-book {
 	background: #f8fffb;
 	padding: 40px 0 20px;
 	border-radius: 10px;
 	transition: all ease-in 0.3s;
 }
 
-.card-fun-fact {
-	background: #f8fffb;
-	padding: 40px 0 20px;
-	border-radius: 10px;
-	transition: all ease-in 0.3s;
-}
-
-.card-fun-fact:hover {
+.card-book:hover {
 	background: #ffffff;
 	box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
